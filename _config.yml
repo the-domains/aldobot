@@ -1,14 +1,26 @@
-layout_spectrum: 0.3367347
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 1
-  lightness: 0
   brandStrength: 1
+  lightness: 0
   brandColors:
-    - '#0B0C0E'
-    - '#01667F'
-    - '#FF4EE7'
-    - '#92D8E0'
-    - '#01F593'
+    - '#0D0D0E'
+    - '#DFCFBD'
+    - '#FB75BE'
+    - '#ADA288'
+    - '#C64C7E'
   rhythmicContrast: 1
 typography_spectrum: 0.5171858
+layout_spectrum: 0.2301855
 name: Aldobot
