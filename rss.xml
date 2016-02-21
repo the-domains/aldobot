@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Aldobot]]></title>
+        <description><![CDATA[Aldobot]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 21 Feb 2016 00:06:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Advanced 3D modeling and Rendering]]></title>
+            <description><![CDATA[<article><h1>Advanced 3D modeling and Rendering</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ad32cc8d72e35ef77ef2722b2c37b50fdd9240f.png"></article>]]></description>
+            <link>undefinedadvanced-3d-modeling-and-rendering/index.html</link>
+            <guid isPermaLink="false">bc349c24-14f8-4b98-871c-180621e42a47</guid>
+            <pubDate>Sun, 21 Feb 2016 00:06:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
