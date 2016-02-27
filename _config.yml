@@ -1,26 +1,26 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 1
   brandStrength: 1
-  lightness: 0
+  rhythmicContrast: 1
   brandColors:
     - '#0F0F15'
     - '#3032A2'
     - '#FF4DE9'
     - '#02F893'
     - '#92D8E1'
-  rhythmicContrast: 1
-typography_spectrum: 0.5171858
+  lightness: 0
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 layout_spectrum: 0.2301855
+typography_spectrum: 0.5171858
 name: Aldobot
