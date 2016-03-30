@@ -1,26 +1,26 @@
-color:
-  saturation: 1
-  brandStrength: 1
-  rhythmicContrast: 1
-  brandColors:
-    - '#0F0F15'
-    - '#3032A2'
-    - '#FF4DE9'
-    - '#02F893'
-    - '#92D8E1'
-  lightness: 0
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.2301855
-typography_spectrum: 0.5171858
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.2218045
+color:
+  saturation: 0.5966703
+  brandStrength: 0.9242749
+  lightness: 0.3743287
+  brandColors:
+    - '#0D1605'
+    - '#05FF03'
+    - '#FBFFFA'
+    - '#6EFF0D'
+    - '#C6FF65'
+  rhythmicContrast: 0
+layout_spectrum: 0.2164339
 name: Aldobot
