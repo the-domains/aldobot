@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-typography_spectrum: 0.2218045
 color:
   saturation: 0.5966703
-  brandStrength: 0.9242749
+  brandStrength: 0.547261
   lightness: 0.3743287
   brandColors:
-    - '#0D1605'
-    - '#05FF03'
-    - '#FBFFFA'
-    - '#6EFF0D'
-    - '#C6FF65'
+    - '#0A0907'
+    - '#FD4641'
+    - '#D41D18'
+    - '#59614A'
+    - '#FFFFFC'
   rhythmicContrast: 0
+typography_spectrum: 0.2218045
 layout_spectrum: 0.2164339
 name: Aldobot
