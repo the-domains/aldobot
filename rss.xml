@@ -4,8 +4,15 @@
         <description><![CDATA[Aldobot]]></description>
         <link>https://thegrid.ai/aldobot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 14:57:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 09:16:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aldobot/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/07bca5f4-48e0-4e83-97d8-76612f1049ca.png">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/07bca5f4-48e0-4e83-97d8-76612f1049ca.png</link>
+            <guid isPermaLink="false">8d5b8968-00dd-4f92-a1bc-7cb9309afbb8</guid>
+            <pubDate>Wed, 10 Aug 2016 09:16:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b279ef3-7615-47e9-b2df-6f725874bfdd.png">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/aldobot/d4cd7cc2-4a3d-45e1-a607-0fbe19272f66/index.html</link>
             <guid isPermaLink="false">d4cd7cc2-4a3d-45e1-a607-0fbe19272f66</guid>
             <pubDate>Mon, 14 Mar 2016 14:55:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/07bca5f4-48e0-4e83-97d8-76612f1049ca.png">]]></description>
-            <link>https://thegrid.ai/aldobot/8d5b8968-00dd-4f92-a1bc-7cb9309afbb8/index.html</link>
-            <guid isPermaLink="false">8d5b8968-00dd-4f92-a1bc-7cb9309afbb8</guid>
-            <pubDate>Tue, 23 Feb 2016 21:35:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Advanced 3D modeling and Rendering]]></title>
