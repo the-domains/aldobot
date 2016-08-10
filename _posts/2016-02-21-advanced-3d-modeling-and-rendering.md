@@ -1,14 +1,14 @@
 ---
 description: ''
 author: []
-datePublished: '2016-02-21T00:06:06.301Z'
+datePublished: '2016-08-10T09:48:44.002Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: Advanced 3D modeling and Rendering
-dateModified: '2016-02-14T04:19:51.400Z'
+dateModified: '2016-02-27T21:15:09.155Z'
 sourcePath: _posts/2016-02-21-advanced-3d-modeling-and-rendering.md
-published: true
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
