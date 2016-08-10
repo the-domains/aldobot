@@ -4,7 +4,7 @@
         <description><![CDATA[Aldobot]]></description>
         <link>https://thegrid.ai/aldobot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 09:48:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 09:59:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aldobot/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Advanced 3D modeling and Rendering]]></title>
@@ -19,6 +19,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/07bca5f4-48e0-4e83-97d8-76612f1049ca.png</link>
             <guid isPermaLink="false">8d5b8968-00dd-4f92-a1bc-7cb9309afbb8</guid>
             <pubDate>Wed, 10 Aug 2016 09:16:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>About Us</p>]]></description>
+            <link>https://thegrid.ai/aldobot/about-us/index.html</link>
+            <guid isPermaLink="false">0e7e8e83-6cdc-46a0-92ce-e13cc447fb5d</guid>
+            <pubDate>Wed, 10 Aug 2016 09:59:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
