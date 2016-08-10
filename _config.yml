@@ -1,3 +1,7 @@
+name: Aldobot
+favicon: null
+layout_spectrum: 0.2164339
+typography_spectrum: 0.2218045
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5966703
-  brandStrength: 0.547261
-  lightness: 0.3743287
   brandColors:
     - '#0A0907'
     - '#FD4641'
     - '#D41D18'
     - '#59614A'
     - '#FFFFFC'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0
   rhythmicContrast: 0
-typography_spectrum: 0.2218045
-layout_spectrum: 0.2164339
-name: Aldobot
+purpose: []
